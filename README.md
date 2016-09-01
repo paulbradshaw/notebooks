@@ -22,6 +22,8 @@ Each chunk of code is then coloured grey. In the upper right corner of that grey
 
 Notably, you can also run other languages within an R notebook, as long as they are installed on your computer. For example to run Python just use ````{python}` at the start of the chunk of code.
 
+A [cheatsheet for R markdown is available here](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+
 ## JavaScript notebooks
 
 JavaScript is less well supported than R or Python when it comes to notebooks. [Kajero](http://www.joelotter.com/kajero/) appears to be one attempt to replicate the functionality of R and Python notebooks, however, allowing you to add commentary and formatting in markdown alongside code which runs within the page.
