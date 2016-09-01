@@ -6,6 +6,15 @@ Notebooks are a way to share code in a way that's much more accessible than code
 
 A notebook explaining the process is [viewable publicly here](https://nbviewer.jupyter.org/github/paulbradshaw/pynotebooks/blob/master/mynotebook.ipynb)
 
+Some examples of notebooks (via Barbara Maseda):
+
+* [Max Woolf's Github](https://github.com/minimaxir) and [blog](http://minimaxir.com/portfolio/). Includes [Code + Jupyter notebook for analyzing and visualizing Reddit Data quickly and easily](https://github.com/minimaxir/reddit-bigquery)
+* [List of IPython (Jupyter) Notebooks by Peter Norvig](http://norvig.com/ipython/README.html)
+
+A gif of [the new JupyterLab notebook](https://github.com/jupyter/jupyterlab): 
+
+![](https://github.com/jupyter/jupyterlab/raw/master/jupyter-plugins-demo.gif)
+
 ## R notebooks
 
 You can [create notebooks within RStudio](http://rmarkdown.rstudio.com/r_notebooks.html). Notebooks can then be exported as PDF documents, HTML files or Word documents.
