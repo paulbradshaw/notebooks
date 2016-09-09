@@ -1,6 +1,6 @@
 # Notebooks in Python, R and JavaScript
 
-Notebooks are a way to share code in a way that's much more accessible than code alone. There are ways to create notebooks in R, Python and JavaScript. This repo contains documentation and examples of all of these.
+Notebooks are a way to share code in a way that's much more accessible than code alone. There are ways to create notebooks in R, Python and JavaScript. This repo contains documentation and examples of all of these (mostly thanks to MA student Barbara Maseda).
 
 ## Python notebooks
 
@@ -32,6 +32,8 @@ Each chunk of code is then coloured grey. In the upper right corner of that grey
 Notably, you can also run other languages within an R notebook, as long as they are installed on your computer. For example to run Python just use ````{python}` at the start of the chunk of code.
 
 A [cheatsheet for R markdown is available here](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+
+You can publish R notebooks at [rpubs.com](http://rpubs.com)
 
 ## JavaScript notebooks
 
